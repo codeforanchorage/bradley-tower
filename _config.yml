@@ -1,7 +1,7 @@
 # Site settings
-title: City of Los Angeles Mayoral Dashboard
-email: "mayor.opendata@lacity.org"
-description: The Mayor's Dashboard tracks key metrics and outcomes from the City of Los Angeles. The platform is open-source and easily reusable; contact us if your city is interested in deploying it.
+title: City of Anchorage Mayoral Dashboard
+email: "brendanbabb@gmail.com"
+description: The Mayor's Dashboard tracks key metrics and outcomes from the Municipality of Anchorage. The platform is open-source and easily reusable; contact us if your city is interested in deploying it.
 baseurl: "/bradley-tower"
 url: "http://codeforanchorage.github.io/bradley-tower/" # the base hostname & protocol for your site
 twitter_username: brendanbabb
